@@ -1,4 +1,4 @@
-# 
+# premium ftx trading bot Module | low-frequency + slippage-control is the best ftx trading bot, featuring low-frequency and slippage-control. Smart, fast, and optimized for trading
 
 
 
